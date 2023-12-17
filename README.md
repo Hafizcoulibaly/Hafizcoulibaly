@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**Hafizcoulibaly/Hafizcoulibaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hafiz Coulibaly . i live in Ivory Coast,Abidjan!
 
-Here are some ideas to get you started:
+I'm passionate about new technology and Artificial Intelligence. Currently, I'm learning on SAYNA Space who is a digital school . where I am a student 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+
+- Programming languages:Python and C# (begining) , HTML and CSS
+- Other skills: worker, courageous
+
+## 🌱 Currently Learning
+
+I'm always exploring new technologies and enhancing my skills .
+
+## 👯 Collaboration
+
+I'm open to collaborating on interesting projects. If you have ideas or are looking for a coding partner, feel free to reach out!
+
+## 💬 Let's Connect
+
+If you have any questions, suggestions, or just want to chat, feel free to contact me. You can find me on instagram or shoot me an email at andoulcoulbi90@gmail.com.
+
+
+
