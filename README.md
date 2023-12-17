@@ -7,7 +7,7 @@ I'm passionate about new technology and Artificial Intelligence. Currently, I'm 
 ## 🔧 Skills & Tools
 
 - Programming languages:Python and C# (begining) , HTML and CSS
-- Other skills: worker, courageous
+- Other skills: worker, courageous.
 
 ## 🌱 Currently Learning
 
